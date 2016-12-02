@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.mysema.query.Query"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.persistence.Query"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+<fullyQualifiedTypeName name="com.mysema.query.jpa.impl.JPAQuery"/>
+<fullyQualifiedTypeName name="com.ujm.xmltech.services.TransactionService"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="com.ujm.xmltech.entity.Transaction"/>
+<fullyQualifiedTypeName name="iso.std.iso._20022.tech.xsd.pain_008_001.DirectDebitTransactionInformation9"/>
+<fullyQualifiedTypeName name="com.ujm.xmltech.entity.file"/>
+<fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.ujm.xmltech.utils.Banks"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+</qualifiedTypeNameHistroy>

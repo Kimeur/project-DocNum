@@ -1,0 +1,14 @@
+Nov 30, 2016 1:07:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Nov 30, 2016 1:07:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Nov 30, 2016 1:07:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 30, 2016 1:07:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 30, 2016 1:08:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 30, 2016 1:08:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 30, 2016 1:08:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/GAZOUZI/AppData/Local/Temp/context6626986447629785151.xml'

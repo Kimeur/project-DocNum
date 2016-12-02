@@ -1,0 +1,10 @@
+127.0.0.1 - - [02/Dec/2016:11:37:40 +0100] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [02/Dec/2016:11:38:17 +0100] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [02/Dec/2016:11:38:19 +0100] "GET /spring-batch/WEB-INF/classes/com/ujm/xmltech/tasklet/Pain008Checker.java HTTP/1.1" 404 949
+127.0.0.1 - - [02/Dec/2016:13:26:18 +0100] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [02/Dec/2016:13:26:18 +0100] "GET /spring-batch/WEB-INF/classes/com/ujm/xmltech/tasklet/Pain008Reader.java HTTP/1.1" 404 1093
+127.0.0.1 - - [02/Dec/2016:13:27:11 +0100] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [02/Dec/2016:13:30:59 +0100] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [02/Dec/2016:13:31:00 +0100] "GET /spring-batch/WEB-INF/classes/database.properties HTTP/1.1" 404 1047
+127.0.0.1 - - [02/Dec/2016:14:35:11 +0100] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [02/Dec/2016:14:35:13 +0100] "GET /spring-batch/ HTTP/1.1" 404 977
